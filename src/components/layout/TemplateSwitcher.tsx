@@ -66,7 +66,7 @@ export const TemplateSwitcher: React.FC<TemplateSwitcherProps> = ({
             Portfolio Template:
           </span>
           <span className="text-xs font-mono text-[#A1A1AA] hidden sm:inline">
-            Choose visual layout for Đỗ Thành Danh
+            Choose visual layout for DO THANH Danh
           </span>
         </div>
 

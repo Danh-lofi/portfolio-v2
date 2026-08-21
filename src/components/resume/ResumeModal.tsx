@@ -236,7 +236,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
 
         {/* Footer info */}
         <div className="p-4 bg-[#09090B] border-t border-[#27272A] flex items-center justify-between text-xs font-mono text-[#A1A1AA]">
-          <span>Source: Đỗ Thành Danh Official CV</span>
+          <span>Source: DO THANH Danh Official CV</span>
           <button onClick={onClose} className="text-cyan-400 hover:text-white font-semibold">Close View</button>
         </div>
 

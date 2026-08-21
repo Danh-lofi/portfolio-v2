@@ -373,7 +373,7 @@ Bachelor of Science in Software Engineering
 
           {/* Document Footer Signoff */}
           <div className="mt-16 pt-4 border-t border-slate-200 flex items-center justify-between text-[11px] text-slate-400 font-mono">
-            <span>Verified Official Document • Đỗ Thành Danh</span>
+            <span>Verified Official Document • DO THANH Danh</span>
             <a href={profileData.portfolioUrl} target="_blank" rel="noreferrer" className="text-blue-600 hover:underline">
               {profileData.portfolioUrl}
             </a>
