@@ -304,7 +304,7 @@ export const VioletGlowTemplate: React.FC<VioletGlowTemplateProps> = ({
       subtitle:
         "Web & Mobile container transportation platform with high-concurrency order tracking.",
       icon: <Sparkles className="w-5 h-5 text-purple-300" />,
-      period: "03/2024 – 08/2026",
+      period: "03/2024 – 10/2026",
       company: "CEH Technology Platform",
       role: "Frontend Engineer (Web & Mobile)",
       platform: "Enterprise Web + Cross-Platform Mobile",
@@ -339,7 +339,7 @@ export const VioletGlowTemplate: React.FC<VioletGlowTemplateProps> = ({
       subtitle:
         "Mission-critical mobile app for port container truck drivers & electronic gate appointments.",
       icon: <Smartphone className="w-5 h-5 text-violet-300" />,
-      period: "03/2024 – 08/2026",
+      period: "03/2024 – 10/2026",
       company: "CEH Technology Platform",
       role: "Mobile Frontend Engineer",
       platform: "React Native Mobile (Driver App)",
@@ -373,7 +373,7 @@ export const VioletGlowTemplate: React.FC<VioletGlowTemplateProps> = ({
       subtitle:
         "On-site container photo capture, vector defect annotation & instant TOS synchronization.",
       icon: <Layers className="w-5 h-5 text-indigo-300" />,
-      period: "03/2024 – 08/2026",
+      period: "03/2024 – 10/2026",
       company: "CEH Technology Platform",
       role: "Mobile Frontend Engineer",
       platform: "React Native Tablet & Mobile",

@@ -57,7 +57,7 @@ ${profileData.aboutParagraphs.join('\n\n')}
 
 ## WORK EXPERIENCE
 ### CEH TECHNOLOGY PLATFORM JOINT STOCK COMPANY
-**Front End Developer | 03/2024 – 08/2026**
+**Front End Developer | 03/2024 – 10/2026**
 - VietnamHub – Logistics & Container Transportation Platform (Web & Mobile)
 - Hateco & HICT Driver Mobile App
 - HICT Container Inspection App
@@ -227,7 +227,7 @@ Bachelor of Science in Software Engineering
               </div>
               <div className="text-xs font-bold text-slate-800 flex items-center justify-between">
                 <span>Front End Developer</span>
-                <span className="font-normal font-mono text-slate-600">03/2024 – 08/2026</span>
+                <span className="font-normal font-mono text-slate-600">03/2024 – 10/2026</span>
               </div>
 
               {/* Project 1.1 */}

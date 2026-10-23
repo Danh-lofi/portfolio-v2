@@ -123,7 +123,7 @@ export const experiencesData: ExperienceItem[] = [
     id: "ceh",
     company: "CEH TECHNOLOGY PLATFORM JOINT STOCK COMPANY",
     role: "Front End Developer",
-    period: "03/2024 – 08/2026",
+    period: "03/2024 – 10/2026",
     isCurrent: true,
     projects: [
       {
